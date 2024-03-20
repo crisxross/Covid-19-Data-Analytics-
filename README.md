@@ -1,6 +1,7 @@
 # Covid-19 Data Analysis
 
 The original Dataset is taken from https://covid.ourworldindata.org
+This notebook include the following:
 
 1. Understanding Our Data
 2. Covid 19 World Analysis - Most Recent Info
